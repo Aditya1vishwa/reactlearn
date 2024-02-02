@@ -20,4 +20,27 @@ it is a single page application
 fragment <></>
 
 
-jaise browser do banata hi waise is react reactdom ki help se apni memory ke ander dom banata hii
+jaise browser dom banata hi waise is react reactdom ki help se apni memory ke ander dom banata hii
+
+
+
+______________________________________________________
+why you need hooks
+
+ui updation in react is controlled by react and for this we have to use hooks 
+
+
+
+
+__________________________________________________________
+virtual dom
+
+what is creact root method
+it is a method which create dom like structure behind the scene
+like browser dom and compare them and those value have change it only replace them from the dom
+
+so it update the browser dom everytime 
+but it is not necessary to update every time we can take fraction of second and update the best version so bich me update hone ka time or resoucre dono bachenge
+this thought is comend in the mind of facebook team
+
+
