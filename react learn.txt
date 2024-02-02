@@ -3,3 +3,21 @@ hype job trend
 
 it make complex frontend easy
 
+npm vs npm 
+node package manager vs node package executer
+if we didn't want to install in system then we can use npx
+
+for create react project 
+we use npx create_react_app appname
+but it take more time because it very bulky it have big bunddle size or we can say size of package is big
+insteed of this we can use veet or parcal 
+for creating vite project
+
+npm create vite@latest
+
+it is a single page application
+
+fragment <></>
+
+
+jaise browser do banata hi waise is react reactdom ki help se apni memory ke ander dom banata hii
